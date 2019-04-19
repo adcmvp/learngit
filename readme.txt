@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 git shi zai shi tai hao yong le,very good!!!
+Git this is function shi gou;
